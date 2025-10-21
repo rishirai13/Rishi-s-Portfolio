@@ -101,7 +101,7 @@ export default function HeroSection() {
             <div className="relative">
               <div className="w-80 h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden shadow-2xl ring-8 ring-white">
                 <Image
-                  src="/images/hero-image.jpg"
+                  src="/images/hero.png"
                   alt="Rishi Rai - Full Stack Developer"
                   width={400}
                   height={400}
